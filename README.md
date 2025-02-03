@@ -1,8 +1,8 @@
 https://like-grapejuice.tistory.com/633 # 여기 참고해서 github 파일 받고 오류 고치기! 
 
-#.기존에는 없던 imu센서 추가및 센서 데이터 받아오는 코드 만듬.. 그리고 actor , critic loss를 step/epi별로 출력하도록 수정함 (600step = 1epi)
+# 기존에는 없던 imu센서 추가및 센서 데이터 받아오는 코드 만듬.. 그리고 actor , critic loss를 step/epi별로 출력하도록 수정함 (600step = 1epi)
 
-#그리고 기존에 존재하던 nvidia localhost가 만들어지던 nucles가 25년도로 없어질 예정이라 hub workstation으로 변경해야한다.
+# 그리고 기존에 존재하던 nvidia localhost가 만들어지던 nucles가 25년도로 없어질 예정이라 hub workstation으로 변경해야한다.
 
 # 어차피 10월 1일에 공식적으로 nucelus서버가 삭제되지만, 지금은 로컬서버를 uninstall 하고 다시 깔면 되긴함. 하지만 불안정함!
 
