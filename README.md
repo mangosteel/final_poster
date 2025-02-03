@@ -1,4 +1,4 @@
-![transition_cap](https://github.com/user-attachments/assets/2014c55d-d4b8-4ec3-8962-183662f60ce0)https://like-grapejuice.tistory.com/633 # 여기 참고해서 github 파일 받고 오류 고치기! 
+https://like-grapejuice.tistory.com/633 # 여기 참고해서 github 파일 받고 오류 고치기! 
 
 #.기존에는 없던 imu센서 추가및 센서 데이터 받아오는 코드 만듬.. 그리고 actor , critic loss를 step/epi별로 출력하도록 수정함 (600step = 1epi)
 
