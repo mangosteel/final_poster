@@ -6,7 +6,7 @@ import torch.nn.functional as F
 class Actor (nn.Module):
   def __init__ (self):
     super(Actor, self).__init__()
-    self.fc1 = nn.Linear(4, 512)
+    self.fc1 = nn.Linear(10, 512) #  , 4>>10
     self.fc2 = nn.Linear(512, 512)
     self.fc3 = nn.Linear(512, 128)
     self.fc4 = nn.Linear(128, 1)

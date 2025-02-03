@@ -6,7 +6,7 @@ import torch.nn.functional as F
 class Critic (nn.Module):
   def __init__ (self):
     super(Critic, self).__init__()
-    self.fc1 = nn.Linear(5, 512)
+    self.fc1 = nn.Linear(11, 512)  # 5 >> 11  원래 4+1 = 5 이므로 5+6이 맞음.
     self.fc2 = nn.Linear(512, 512)
     self.fc3 = nn.Linear(512, 128)
     self.fc4 = nn.Linear(128, 1)

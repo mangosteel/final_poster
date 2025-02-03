@@ -8,6 +8,6 @@ import os
 actor = Actor()
 critic = Critic()
 
-print(os.path.join(os.getcwd(), 'custom_standalones/cartpole_train/ckpt/model.safetensors'))
+print(os.path.join(os.getcwd(), 'standalone_examples/cartpole_train/ckpt/model.safetensors'))
 
-save_model(actor, os.path.join(os.getcwd(), 'custom_standalones/cartpole_train/ckpt/model.safetensors'))
+save_model(actor, os.path.join(os.getcwd(), 'standalone_examples/cartpole_train/ckpt/model.safetensors'))
