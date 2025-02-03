@@ -20,7 +20,6 @@ https://docs.isaacsim.omniverse.nvidia.com/latest/installation/download.html # �
 
 ![오케이 기존의 neclues서버를 hub로 대체](https://github.com/user-attachments/assets/a481dce0-867c-4d28-95c9-15f0e26417e3)
 
-
-
-
+# 이런식으로 터미널에출력된다
+![조금 더 예븐 터미널 출력값?](https://github.com/user-attachments/assets/e63de6cf-2c1d-47d9-9b2f-56cfd12f5848)
 
